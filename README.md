@@ -8,8 +8,8 @@ MOOC 是一个很好的学习平台，我非常享受在MOOC上自由的安排�
 
 | Course             |  Platform  |  Instructor |  College          | Status|
 | ------------------ |  :-------: |  :-------:  |:-----:            |:-----:|
-| Machine-Learning   |  Coursera  | Andrew Ng   |  Stanford University   |
-| MIT Python   |  Xuetangx  |  Prof.   |  MIT   |   Finished |
+| Machine-Learning   |  Coursera  | Andrew Ng   |  Stanford University   |Ongoing|
+| MIT Python   |  XuetangX  |  Prof.   |  MIT   |   Finished |
 | Data Structures   |  XuetangX  | Deng   |  Tshinghua University   |  Finished|
 
 
