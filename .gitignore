@@ -1,3 +1,9 @@
 submit.m
 token.mat
 lib/
+
+# about dsa src files
+*.out
+*.exe
+*.log
+*.unsuccessfulbuild
