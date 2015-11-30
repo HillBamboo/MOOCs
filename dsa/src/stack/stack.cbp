@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="stack" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug Win32">
+				<Option output="stack" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-D_DEBUG" />
+					<Add option="-D_CONSOLE" />
+				</Compiler>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="stack" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_CONSOLE" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="../_share/checkOrder_Elem.h" />
+		<Unit filename="../_share/checkOrder_vector.h" />
+		<Unit filename="../_share/comparator.h" />
+		<Unit filename="../_share/crc_elem.h" />
+		<Unit filename="../_share/crc_vector.h" />
+		<Unit filename="../_share/increase_Elem.h" />
+		<Unit filename="../_share/increase_vector.h" />
+		<Unit filename="../uniprint/print_HuffChar.cpp" />
+		<Unit filename="../uniprint/print_basic.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="stack%40list.h" />
+		<Unit filename="stack%40vector.h" />
+		<Unit filename="stack.h" />
+		<Unit filename="stack_test.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
