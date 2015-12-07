@@ -1,7 +1,7 @@
 Topic: Coursera-Machine-Learning-Course-Note
 date: 2015-12-05
 
-# Week 6
+# Week 6. Machine Learning System Design
 
 ## Brain Strom
 
@@ -37,3 +37,6 @@ Notes:
 1. Error analysis并不总能指导我们下一步要做什么，此时比较常见的做法是尝试一些新的算法并观察一下效果。
 
 2. 使用数字来评估算法的效果。比如使用5%来表示错误率。这种定量的方式比定性的方式有时来得更直观
+
+## others
+[推荐系统TopN推荐评测指标-Precision&Recall](http://bookshadow.com/weblog/2014/06/10/precision-recall-f-measure/)
