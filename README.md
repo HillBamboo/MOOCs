@@ -10,6 +10,8 @@ MOOC 是一个很好的学习平台，我非常享受在MOOC上自由的安排�
 | ------------------ |  :-------: |  :-------:  |:-----:            |:-----:|
 |Machine Learning: Regression|Coursera|Emily Fox and Carlos Guestrin| Washington|Ongoing|
 | Machine-Learning   |  Coursera  | Andrew Ng   |  Stanford|Ongoing|
+| 用Python玩转数据 Data Processing Using Python
+  |  Coursera  | 张莉   |  南京大学|Ongoing|
 | MIT Python   |  XuetangX  |  Prof.   |  MIT   |   Finished |
 | Data Structures   |  XuetangX  | Deng   |  Tshinghua|  Finished|
 
