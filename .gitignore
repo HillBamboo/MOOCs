@@ -1,3 +1,4 @@
+# machine learning 
 submit.m
 token.mat
 lib/
@@ -7,3 +8,6 @@ lib/
 *.exe
 *.log
 *.unsuccessfulbuild
+
+# octave 
+octave-workspace
