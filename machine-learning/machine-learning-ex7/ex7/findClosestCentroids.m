@@ -21,12 +21,15 @@ idx = zeros(size(X,1), 1);
 % Note: You can use a for-loop over the examples to compute this.
 %
 
-
-
-
-
-
-
+% size(centroids)
+m = size(X,1);
+for i=1:m
+	res = zeros(1,K);
+	for j=1:K
+		res(1,j) = (X(i,:)-centroids(j,:))*(X(i,:)-centroids(j,:))';
+	[xx, c] = min(res);
+	idx(i,1) = c;
+end
 % =============================================================
 
 end

@@ -6,7 +6,7 @@
 |week4|            |               |
 |week5|            |               |
 |week6|            |               |
-|week7|            |               |
+|week7|            | image compression      |
 |week8|            |               |
 |week9|            |               |
 |week10|            |               |
