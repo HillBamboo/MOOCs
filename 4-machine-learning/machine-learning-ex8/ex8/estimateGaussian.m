@@ -22,13 +22,13 @@ sigma2 = zeros(n, 1);
 %
 
 
+mu = mean(X);
+sigma2 = (m-1)*var(X)/m;
 
-
-
-
-
-
-
+% for i=1:n
+% 	sigma2(i,1) = sigma2(i, 1) + sum( (X(:,i) - mu(i)).^ 2 );
+% end
+% sigma2 = sigma2 / m;
 
 % =============================================================
 
